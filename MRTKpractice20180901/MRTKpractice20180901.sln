@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRTKpractice20180901", "Assembly-CSharp.csproj", "{655CB216-617C-4540-F3D5-60537740176B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRTKpractice20180901", "Assembly-CSharp-Editor.csproj", "{5E9F89B4-B414-7889-0EF9-975FB0116BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655CB216-617C-4540-F3D5-60537740176B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655CB216-617C-4540-F3D5-60537740176B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655CB216-617C-4540-F3D5-60537740176B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655CB216-617C-4540-F3D5-60537740176B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9F89B4-B414-7889-0EF9-975FB0116BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9F89B4-B414-7889-0EF9-975FB0116BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9F89B4-B414-7889-0EF9-975FB0116BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9F89B4-B414-7889-0EF9-975FB0116BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
